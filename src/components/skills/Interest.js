@@ -8,15 +8,15 @@ class Interest extends Component {
     return (
       <div className={classes.box} id="interest">
         <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
-          <span className={classes.head}>WHAT I DO?</span>
-          <h2 className={classes.heading}>HERE ARE SOME OF MY EXPERTISE</h2>
+          <span className={classes.head}>WHAT I LOVE</span>
+          <h2 className={classes.heading}>HERE ARE SOME OF MY SKILLS</h2>
           <div className={classes.Interest}>
-            <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
+            {/* <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.web}>
                 <h3>APP Develpoment</h3>
                 <p>I also have knowledge of flutter development and have experience in building android and IOS applications. I also have live app published on Google Play Store. </p>
               </div>
-            </ScrollAnimation>
+            </ScrollAnimation> */}
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.app}>
                 <h3>Web Develpoment</h3>
@@ -26,7 +26,7 @@ class Interest extends Component {
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.other}>
                 <h3>Other's Interest</h3>
-                <p>I also have decent hand in developing website with WordPress.<br />C++, Github are my other fields of interest. Currently, I am investing my free time in Web3.js </p>
+                <p>I am interested in problem solving skills<br />C++, Github are my other fields of interest. Currently, I am investing my time in Data Structures and Algorithm.</p>
               </div>
             </ScrollAnimation>
           </div>
