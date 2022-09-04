@@ -24,7 +24,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Graduation  <span>July(2018)-Present</span></h2>
-                                                    <p>I am currently a <b>Student</b> in <a target="_blank" href="https://www.bitmesra.ac.in/"><b>BIT MESRA.</b></a> I am currently in my final year of my five year Integrated Master of Science course in Mathematics and Computing</p>
+                                                    <p>I am currently a <b>Student</b> in <a target="_blank" href="https://www.bitmesra.ac.in/"><b>BIT MESRA.</b></a> I am currently in my final year of the five year Integrated Master of Science degree in Mathematics and Computing</p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -47,7 +47,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 > Training Internship</h2>
-                                                    <p>Completed one month Internship in Full Stack evelopment with Stige Internship</p>
+                                                    <p>Completed one month Internship in Full Stack Development with Stige Internship</p>
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div className={classes.timeline_icon_3 || classes.color_none}></div></div>
                                             </article>
