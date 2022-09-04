@@ -20,7 +20,7 @@ class Education extends Component {
                                         <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
                                             <article className={classes.timeline_entry}>
                                                 <div className={`${classes.timeline_icon} ${classes.timeline_icon_5}`} >
-                                                    <MdWork />
+                                                <MdSchool />
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Graduation  <span>July(2018)-Present</span></h2>
@@ -34,8 +34,8 @@ class Education extends Component {
                                                     <FaSchool />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Higher Education  <span>2014-2016</span></h2>
-                                                    <p>I have completed my higher education from HKIS with major subjects as Physics,Chemistry & Maths with 85% merit in CBSE board. </p>
+                                                    <h2 >Higher Education  <span>2015-2017</span></h2>
+                                                    <p>I have completed my higher education from Burdwan Model School with major subjects as Physics,Chemistry,Maths and Computer with 78.8% merit in CBSE board. </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -46,8 +46,8 @@ class Education extends Component {
                                                     <MdWork />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Internship</h2>
-                                                    <p>Completed one month Internship in React Js with Internity Foundation</p>
+                                                    <h2 > Training Internship</h2>
+                                                    <p>Completed one month Internship in Full Stack evelopment with Stige Internship</p>
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div className={classes.timeline_icon_3 || classes.color_none}></div></div>
                                             </article>
