@@ -23,19 +23,8 @@ class Education extends Component {
                                                     <MdWork />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Experience  <span>July(2021)-Present</span></h2>
-                                                    <p>I am currently working as <b>Software Developer Engineer</b> at <a target="_blank" href="https://www.springworks.in/"><b>Springworks</b></a> <i>(previously Springrole and Springworks is a HR technology startup that is building tools and products to simplify recruiting and help organizations engage and retain their employees)</i> and boosting my professional skills.</p>
-                                                </div>
-                                            </article>
-                                        </ScrollAnimation>
-                                        <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
-                                            <article className={classes.timeline_entry}>
-                                                <div className={classes.timeline_icon} >
-                                                    <MdSchool />
-                                                </div>
-                                                <div className={classes.label}>
-                                                    <h2 >Undergraduation at SLIET <span>2017-2021</span></h2>
-                                                    <p>I completed my undergraduation in CSE (Computer Science and Engineering) from <a href='http://sliet.ac.in/'>SLIET</a> with overall 82.71%.</p>
+                                                    <h2 >Graduation  <span>July(2018)-Present</span></h2>
+                                                    <p>I am currently a <b>Student</b> in <a target="_blank" href="https://www.bitmesra.ac.in/"><b>BIT MESRA.</b></a> I am currently in my final year of my five year Integrated Master of Science course in Mathematics and Computing</p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
